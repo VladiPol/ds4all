@@ -1,4 +1,4 @@
-# Welcome to 'Data Science for All' (ds4all)
+# Willkommen in 'Datenanalyse für alle' oder 'Data Science for All' (ds4all)
 
 The English version you can find below.
 
@@ -11,6 +11,8 @@ Ich mache gern die Datenberatung vor Ort / per Telefon / Email etc., aber für d
 Viel Spaß dabei und ich freue mich über ein Feedback unter (v (punkt) poliakov (at) gmx (dot) net :-)
 
 ##### English version
+
+# Welcome to 'Data Science for All' (ds4all)
 
 My name is Vladimir Poliakov. I am the Business Intelligence Expert at an international bank. Because of my high affinity with numbers, one of my tasks is to analyze the data from different sources in order to get a benefit for the company. After many years of experience in the IT industry I want to share my knowledge with the others. My motto is "the numbers are everywhere" and I am confident that even a small bakery can benefit from modern Data Analysis and Data Consulting. Data Science and Artificial Intelligence can also help small and medium-sized businesses to increase sales without additional investment.
 
