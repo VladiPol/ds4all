@@ -8,7 +8,7 @@ Früher habe ich für die Datenanalyse MS Excel und / oder R (https://www.r-proj
 
 Ich mache gern die Datenberatung vor Ort / per Telefon / Email etc., aber für diejenigen, die in die Welt der modernen Datenanalyse selbst einsteigen möchten, habe ich hier ein paar Jupyter Notebook Beispiele gesammelt:
 
-1. Warenkorbanalyse einer Bäckerei -> baeckerei_warenkorbanalyse.ipynb (python jupyter notebook file)
+1. Warenkorbanalyse einer Bäckerei -> baeckerei_warenkorbanalyse.ipynb (https://github.com/VladiPol/ds4all/blob/master/baeckerei_warenkorbanalyse.ipynb python jupyter notebook file)
 
 Viel Spaß dabei und ich freue mich über ein Feedback unter (v (punkt) poliakov (at) gmx (dot) net :-)
 
@@ -22,6 +22,6 @@ Previously, I used MS Excel and / or R (https://www.r-project.org) for data anal
 
 I like to do the Data Consultation on site / by phone / email etc., but for those who want to get into the world of modern Data Analysis themselves, I have collected some Jupyter notebook examples here:
 
-1. Market Basket Analysis in German from a bakery -> baeckerei_warenkorbanalyse.ipynb (python jupyter notebook file)
+1. Market Basket Analysis in German from a bakery -> baeckerei_warenkorbanalyse.ipynb (https://github.com/VladiPol/ds4all/blob/master/baeckerei_warenkorbanalyse.ipynb python jupyter notebook file)
 
 Have fun and I am pleased about a feedback under (v (dot) poliakov (at) gmx (dot) net :-)
