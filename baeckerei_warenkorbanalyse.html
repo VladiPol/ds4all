@@ -11883,7 +11883,7 @@ div#notebook {
 <div class="text_cell_render border-box-sizing rendered_html">
 <p><a id="Idee"></a></p>
 <h3 id="Idee">Idee<a class="anchor-link" href="#Idee">&#182;</a></h3><p>Jedes, wirklich jedes, Unternehmen, das etwas verkauft, besitzt automatisch die Daten, egal ob im elektronischen Format oder auf dem Papier, für eine Warenkorbanalyse. Und die Bäckereien sind in diesem Sinne keine Ausnahme. Das Daten-Set der Bäckerei aus Edinburgh wird genau für die Warenkorbanalyse-Modellierungstechnik (engl.  Market Basket Analysis) verwendet. Die Idee dieser Technik ist ein Einkaufsmuster innerhalb von Artikeln vorhersagen zu können, was sie im Handel populär macht.</p>
-<p>Anders gesagt, basierend am Daten-Set der Bäckerei wird versucht die Verbindung zwischen gekauften Artikeln zu finden. Zum Beispiel, wenn jemand 'Produkt_1' kauft, wie wahrscheinlich dann ist, dass auch 'Produkt_2' gekauft wird? Mehr dazu ist in der <a href="https://de.wikipedia.org/wiki/Apriori-Algorithmus">Wikipedia</a> zu finden.</p>
+<p>Anders gesagt, basierend am Daten-Set der Bäckerei werden wir versuchen, die Verbindung zwischen gekauften Artikeln zu finden. Zum Beispiel, wenn jemand 'Produkt_1' kauft, wie wahrscheinlich dann ist, dass auch 'Produkt_2' gekauft wird? Mehr dazu ist in der <a href="https://de.wikipedia.org/wiki/Apriori-Algorithmus">Wikipedia</a> zu finden.</p>
 
 </div>
 </div>
@@ -12034,7 +12034,7 @@ Ein Lift von 1 oder 100% bedeutet, dass es keine Verbindung zwischen dem Produkt
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Lesen des Datenbestandes aus der 'BreadBasket_DMS.csv'-Datei und ins pandas's DataFrame-Objekt und auflisten der Daten mit den Eigenschaften:</p>
+<p>Lesen wir das Datenbestandes aus der 'BreadBasket_DMS.csv'-Datei ins pandas's DataFrame-Objekt und auflisten die Daten mit den Eigenschaften.</p>
 
 </div>
 </div>
@@ -12144,7 +12144,7 @@ None
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Da die Bäckerei aus Großbritannien ist und ein Angebot an argentinischen und spanischen Produkten hat, ist das ein wenig schwierig, die Benennung der Produkten auf eine "durchschnittliche" Bäckerei aus Deutschland zu portieren. Deshalb lassen wir die Produkte so benennen, wie sie im Data-Set vorkommen.</p>
+<p>Da die Bäckerei aus Großbritannien ist und ein Angebot an argentinischen und spanischen Produkten hat, ist das ein wenig schwierig, die Benennung der Produkten auf eine "durchschnittliche" Bäckerei aus Deutschland zu portieren. Deshalb lassen wir die Produkte so benennen, wie sie im Daten-Set vorkommen.</p>
 
 </div>
 </div>
@@ -12223,7 +12223,7 @@ None
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p><a id="Pruefen-der-Null-Werte"></a></p>
-<h3 id="Pr&#252;fen-der-Null-Werte">Pr&#252;fen der Null Werte<a class="anchor-link" href="#Pr&#252;fen-der-Null-Werte">&#182;</a></h3><p>Als erstes wird das Data-Set auf die Null Werte geprüft und dann auf die Werte, die mit "NONE" (undefinierte Daten) gekennzeichnet sind.</p>
+<h3 id="Pr&#252;fen-der-Null-Werte">Pr&#252;fen der Null Werte<a class="anchor-link" href="#Pr&#252;fen-der-Null-Werte">&#182;</a></h3><p>Als erstes prüfen wir das Daten-Set auf die Null Werte und dann auf die Werte, die mit "NONE" (undefinierte Daten) gekennzeichnet sind.</p>
 
 </div>
 </div>
@@ -12268,7 +12268,7 @@ dtype: int64
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Erstaunlich. Es sieht so aus, als ob es keine fehlenden Daten gebe. Jetzt wird das Data-Set auf "NONE" Daten geprüft.</p>
+<p>Erstaunlich. Es sieht so aus, als ob es keine fehlenden Daten gebe. Und was ist mit den "NONE" Werten.</p>
 
 </div>
 </div>
@@ -12443,7 +12443,7 @@ None
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Das Datum und die Zeit sind nicht die numerischen Werte im Datenbestand. Zur besseren Visualisierung und Analyse der Daten werden sie in die numerischen Werte umgewandelt.</p>
+<p>Das Datum und die Zeit sind nicht die numerischen Werte im Datenbestand. Zur besseren Visualisierung und Analyse der Daten wandeln wir sie in die numerischen Werte um.</p>
 
 </div>
 </div>
@@ -13522,7 +13522,7 @@ EEIIIYSoxCQpFEIIIYQQQohKTJJCIYQQQgghhKjE/h/Rqmvmeax0WwAAAABJRU5ErkJggg==
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Das meistverkaufte Produkt ist Kaffe gefolgt von Brot, Tee, Kuchen und Gebäck. Das ist völlig normal und klar für eine Bäckerei. Nachdem wir wissen, welche Artikel am beliebtesten sind, schauen wir uns an, in welchen Monaten die meisten Verkäufe erzielt werden.</p>
+<p>Das meistverkaufte Produkt ist Kaffe gefolgt von Brot, Tee, Kuchen und Gebäck. Das ist völlig normal und verständlich für eine Bäckerei. Nachdem wir wissen, welche Artikel am beliebtesten sind, schauen wir uns an, in welchen Monaten die meisten Verkäufe erzielt werden.</p>
 
 </div>
 </div>
@@ -13844,7 +13844,7 @@ Name: Day, dtype: int64
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Let's now create a list of the unique transactions so that we can transform our data into the correct format using TransactionEncoder.</p>
+<p>Wir erstellen erst die Liste der Transaktionen, damit wir sie später für den Apriori Algorithmus im TransactionEncoder formatieren können.</p>
 
 </div>
 </div>
@@ -15568,7 +15568,7 @@ None
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Nachdem das Data-Set formatiert wurde, kann man den Apriori-Algorithmus mit den assoziativen Regeln verwenden. Dabei wird für den Lift min_threshold = 1,0 festgelegt. Wenn er weniger als 1,0 ist, werden die beiden Produkte wahrscheinlich nicht zusammen gekauft (siehe Theorie oben). Die Ergebnisse werden nach der Konfidenz absteigend sortiert, um die Wahrscheinlichkeit zu sehen, dass ein Produkt gekauft wird, wenn sein Vorgänger gekauft wird.</p>
+<p>Nachdem das Daten-Set formatiert wurde, werden wir den Apriori-Algorithmus mit den assoziativen Regeln verwenden. Dabei wird für den Lift min_threshold = 1,0 festgelegt. Wenn er weniger als 1,0 ist, werden die beiden Produkte wahrscheinlich nicht zusammen gekauft (siehe Theorie oben). Die Ergebnisse werden nach der Konfidenz absteigend sortiert, um die Wahrscheinlichkeit zu sehen, dass ein Produkt gekauft wird, wenn sein "Vorgänger" gekauft wird.</p>
 
 </div>
 </div>
@@ -16165,8 +16165,8 @@ None
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Allgemein gesehen (s. Meistverkaufte Produkte oben) ist der Kaffee das beliebteste Produkt. Das ist logisch und klar, weil es eine Bäckerei ist.</p>
-<p>Außerdem in der ersten Zeile in der Tabelle oben sieht man, wenn ein Toast gekauft wird, wird zu 70% (s. Konfidenz) auch ein Kaffee gekauft. Oder der Kauf eines Toastes macht den Kauf eines Kaffees um 47% (s. Lift 147%) wahrscheinlicher. Anders gesagt, je höher der Lift, desto stärke die Korrelation zwischen den Produkten.</p>
+<p>Allgemein gesehen (s. Meistverkaufte Produkte oben) ist der Kaffee das beliebteste Produkt. Das ist logisch und selbsterklärend, weil es eine Bäckerei ist.</p>
+<p>Außerdem in der ersten Zeile in der Tabelle oben sehen wir, wenn ein Toast gekauft wird, wird zu 70% (s. Konfidenz) auch ein Kaffee gekauft. Oder der Kauf eines Toastes macht den Kauf eines Kaffees um 47% (s. Lift 147%) wahrscheinlicher. Anders gesagt, je höher der Lift, desto stärke die Korrelation zwischen den Produkten.</p>
 <p>Aus diesem Grund sind alle Beziehungen zwischen Produkten interessant, wo der Lift hoch ist, auch wenn die Konfidenz niedrig ist z.B. (Format: Vorgänger (antecedents) -&gt; Folger (consequents)):</p>
 <ul>
 <li>Cake -&gt; Tea (Lift 160%)</li>
@@ -16184,7 +16184,7 @@ None
 </li>
 <li>Cake -&gt; Hot Chocolate (Lift 188%)</li>
 </ul>
-<p>Die Spalten 'leverage' and 'conviction' beinhalten zusätzliche Metriken. Mehr dazu unter <a href="https://rasbt.github.io/mlxtend/user_guide/frequent_patterns/association_rules/">https://rasbt.github.io/mlxtend/user_guide/frequent_patterns/association_rules/</a></p>
+<p>Die Spalten 'leverage' and 'conviction' beinhalten zusätzliche Metriken. Ihre Beschreibung finden Sie unter <a href="https://rasbt.github.io/mlxtend/user_guide/frequent_patterns/association_rules/">https://rasbt.github.io/mlxtend/user_guide/frequent_patterns/association_rules/</a></p>
 
 </div>
 </div>
@@ -16211,7 +16211,7 @@ None
 </div>
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Fall die Produktpalette überschaubar ist und die Anzahl der Transaktionen relativ klein ist, kann man diese Analyse in Excel machen. Wenn das Interesse besteht, kann ich ein kleines Beispiel hier machen. Sonst fragen Sie den Uncle Google. Die Stichworte sind: Warenkorbanalyse, Excel etc. Viel Spaß und Erfolg.</p>
+<p>Fall die Produktpalette überschaubar ist und die Anzahl der Transaktionen relativ klein ist, kann man diese Analyse in Excel machen. Wenn das Interesse besteht, kann ich ein kleines Beispiel machen. Sonst fragen Sie den Uncle Google. Die Stichworte sind: Warenkorbanalyse, Excel etc. Viel Spaß und Erfolg. Ich freue mich über ein Feedback unter (v (punkt) poliakov (at) gmx (dot) net :-)</p>
 
 </div>
 </div>
