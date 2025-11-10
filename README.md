@@ -19,9 +19,9 @@ Viel Spaß dabei und ich freue mich über ein Feedback unter (v (punkt) poliakov
 
 ##### English version
 
-## Welcome to 'Data Science for All' (ds4all) - https://www.datenanalyseexpert.de/
+## Welcome to 'Data Science for All' (ds4all)
 
-My name is [Vladimir Poliakov](https://www.datenanalyseexpert.de/). I am the Business Intelligence and Big Data Expert at an international bank. Because of my high affinity with numbers, one of my tasks is to analyze the data from different sources in order to get a benefit for the company. After many years of experience in the IT industry I want to share my knowledge with the others. My motto is "the numbers are everywhere" and I am confident that even a small bakery can benefit from modern Data Analysis and Data Consulting. Data Science and Artificial Intelligence can definitely help small and medium-sized businesses investigate the relationships in the data to discover the hidden potential for business.
+My name is Vladimir Poliakov. I am the Business Intelligence and Big Data Expert at an international bank. Because of my high affinity with numbers, one of my tasks is to analyze the data from different sources in order to get a benefit for the company. After many years of experience in the IT industry I want to share my knowledge with the others. My motto is "the numbers are everywhere" and I am confident that even a small bakery can benefit from modern Data Analysis and Data Consulting. Data Science and Artificial Intelligence can definitely help small and medium-sized businesses investigate the relationships in the data to discover the hidden potential for business.
 
 Previously, I used MS Excel and / or R (https://www.r-project.org) for data analysis. Lately I do the data analysis mainly with the scripting language Python. I use this language in my daily work for Big Data Analysis, because there are also very large communities and many data science libraries.
 
