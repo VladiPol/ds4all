@@ -1,8 +1,8 @@
-## Willkommen in 'Datenanalyse für alle' oder 'Data Science for All' (ds4all) - https://www.datenanalyseexpert.de/
+## Willkommen in 'Datenanalyse für alle' oder 'Data Science for All' (ds4all)
 
 The English version you can find below.
 
-Mein Name ist [Vladimir Poliakov](https://www.datenanalyseexpert.de/). Ich bin der Business Intelligence und Big Data Expert bei einer internationalen Bank. Da ich eine hohe Zahlenaffinität habe, gehört zu meinen Aufgaben unter anderem die Analyse der Daten aus verschiedenen Quellen, um ein Nutzen davon fürs Unternehmen zu bekommen. Nach vielen Jahren Erfahrung in der IT-Branche möchte ich mein Wissen mit den anderen teilen. Mein Motto ist „die Zahlen sind überall“ und ich bin zuversichtlich, dass auch eine kleine Bäckerei von der modernen Datenanalyse und Datenberatung profitieren kann. Die Data Science und die Künstliche Intelligenz können definitiv den kleinen und mittelständigen Unternehmen helfen, die Zusammenhänge in den Daten zu untersuchen um das verborgene Potenzial fürs Geschäft zu entdecken.
+Mein Name ist Vladimir Poliakov. Ich bin der Business Intelligence und Big Data Expert bei einer internationalen Bank. Da ich eine hohe Zahlenaffinität habe, gehört zu meinen Aufgaben unter anderem die Analyse der Daten aus verschiedenen Quellen, um ein Nutzen davon fürs Unternehmen zu bekommen. Nach vielen Jahren Erfahrung in der IT-Branche möchte ich mein Wissen mit den anderen teilen. Mein Motto ist „die Zahlen sind überall“ und ich bin zuversichtlich, dass auch eine kleine Bäckerei von der modernen Datenanalyse und Datenberatung profitieren kann. Die Data Science und die Künstliche Intelligenz können definitiv den kleinen und mittelständigen Unternehmen helfen, die Zusammenhänge in den Daten zu untersuchen um das verborgene Potenzial fürs Geschäft zu entdecken.
 
 Früher habe ich für die Datenanalyse MS Excel und / oder R (https://www.r-project.org) verwendet. In der letzten Zeit mache ich die Datenanalyse überwiegend mit der Skriptsprache Python. Diese Sprache setze ich in meiner täglichen Arbeit ein, dafür gibt es auch sehr große Community und viele Data Science Bibliotheken.
 
